@@ -1,0 +1,20 @@
+LENGTH OF THE SENTENCE[NUMBER OF CHARACTERS].
+STEP 1:START ALGORITHM
+STEP 2:Get 2 containers
+STEP 3:Let one container contain the sentence[I LOVE WATCHING FOOTBALL] and the other contain the sum
+STEP 4: count the number of characters in the sentence and put it in the sum container
+STEP 5: Print your result
+
+NUMBER OF WORDS IN THE SENTENCE[ASSUMING THEY ARE SEPERATED BY A SINGLE SPACE]
+STEP 1:START ALGORITHM
+STEP 2:Get 2 containers
+STEP 3:Let one container contain the sentence[I LOVE WATCHING FOOTBALL] and the other contain the sum
+STEP 4: count the number of word in the sentence including the spaces between each word[I-LOVE-WATCHING-FOOTBALL]
+STEP 5: Print your result
+
+NUMBERS OF VOWELS IN THE SENTENCE
+STEP 1:START ALGORITHM
+STEP 2:Get 2 containers
+STEP 3:Let one container contain the sentence[I LOVE WATCHING FOOTBALL] and the other contain the sum
+STEP 4: count the number of vowels in the sentence[e.g i,o,e]and put it in the sum container
+STEP 5: Print your result
